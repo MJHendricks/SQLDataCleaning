@@ -1,1 +1,2 @@
-# SQLDataCleaning
+# Data Cleaning in SQL
+
