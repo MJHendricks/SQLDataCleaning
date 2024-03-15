@@ -24,3 +24,6 @@ The following changes were made to the original dataset:
 - Seperated the OwnerAddress into seperate columns: OwnerStreet, OwnerCity, OwnerState.
 - Normalized the SoldAsVacant column to display values only as "Yes" or "No".
 - Removed PropertyAddress and OwnerAddress columns.
+
+## Acknowledgements
+Thank you to Alex Freberg ([AlexTheAnalyst](https://github.com/AlexTheAnalyst)) for the original dataset.
