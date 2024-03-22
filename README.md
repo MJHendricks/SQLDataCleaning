@@ -28,4 +28,4 @@ The following changes were made to the original dataset:
 The final query, resulting in a clean and well formatted dataset has been exported into a csv file, Nashville Housing Data Cleaned.csv.
 
 ## Acknowledgements
-Thank you to Alex Freberg ([AlexTheAnalyst](https://github.com/AlexTheAnalyst)) for the original dataset.
+Thanks to Alex Freberg ([AlexTheAnalyst](https://github.com/AlexTheAnalyst)) for the original dataset.
